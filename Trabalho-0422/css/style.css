@@ -1,0 +1,67 @@
+body{
+  font-family: 'Tahoma', cursive;
+  line-height: 22px;
+  font-size: 16px;
+  background: url("../img/fundo.jpg");
+  /* background: #000000; */
+}
+
+
+h1{
+  font-family: 'Tahoma',cursive;
+  color: #ffffff;
+  font-size: 50px;
+}
+
+.principal{
+  width: 1200px;
+  margin: 0px auto;
+}
+
+.jogos{
+  background: #ffffff;
+  border: 1px solid #cccccc;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.jogos img{
+  width: 120px;
+  height: 150px;
+  border: 1px solid #7E9F19;
+  margin: 10px 10px 0 0;
+  float: left;
+  padding: 2px;
+}
+
+.jogos h2{
+  margin: 0px;
+  border-bottom: 3px dotted #7E9F19;
+}
+
+.jogos p{
+  margin: 0px;
+  /* border-bottom: 1px dotted #7E9F19; */
+  text-align: justify;
+}
+
+.jogos .twitter{
+  text-align: right;
+  border-bottom: 3px dotted #7E9F19;
+}
+
+.jogos a{
+  color: #2C88A7;
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.jogos a:hover{
+  color: #DC143C;
+}
+
+.Final{
+  font-size: 12px;
+  color: #ffffff;
+  text-align: center;
+}
