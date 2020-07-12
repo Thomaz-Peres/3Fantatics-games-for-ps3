@@ -4,4 +4,4 @@ Exercise with HTML and CSS
 
 Three Fantastics games for PlayStation 3
 
-Web site static 
+Site static 
